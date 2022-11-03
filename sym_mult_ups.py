@@ -14,7 +14,7 @@ def sym_mult_ups(A, k, alpha = 1, M = 10):
   H = np.transpose(np.abs(np.random.randn(k,n)))
   print('Initial H shape: ', np.shape(H))
   
-  errors = [np.linalg.norm(A-H@np.transpose(H),'fro')**2]           #initialize error array
+  #errors = [np.linalg.norm(A-np.transpose(H)@H,'fro')**2]           #initialize error array
   
   for i in range(M):
     Abar = np.vstack((A,np.sqrt(alpha)*np.transpose(W)))
@@ -27,6 +27,6 @@ def sym_mult_ups(A, k, alpha = 1, M = 10):
     print('H shape: ', np.shape(H))
     W = H                                                           #update W        
     
-    errors.append(np.linalg.norm(A-H@np.transpose(H),'fro')**2)     #record error
+    #errors.append(np.linalg.norm(A-H@np.transpose(H),'fro')**2)     #record error
   
-  return H, errors
+  return H#, errors
