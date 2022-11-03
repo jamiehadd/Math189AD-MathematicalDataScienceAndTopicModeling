@@ -25,7 +25,7 @@ def sym_mult_ups(A, k, alpha = 1, M = 10):
     #H = H*((np.transpose(Wbar)@Abar)/(np.transpose(Wbar)@Wbar@H))
                                                                     #update for H    
     print('H shape: ', np.shape(H))
-    W = H                                                           #update W        
+    W = np.transpose(H)                                                           #update W        
     
     #errors.append(np.linalg.norm(A-H@np.transpose(H),'fro')**2)     #record error
   
