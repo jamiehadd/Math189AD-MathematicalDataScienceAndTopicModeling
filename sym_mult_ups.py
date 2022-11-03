@@ -22,7 +22,7 @@ def sym_mult_ups(A, k, alpha = 1, M = 10):
     Wbar = np.vstack((W,np.sqrt(alpha)*np.eye(k)))
     print('Wbar shape: ', np.shape(Wbar))
 
-    H = np.transpose(np.transpose(H)*((np.transpose(Wbar)@Abar)/(np.transpose(Wbar)@Wbar@np.transpose(H) + eps_divide)))
+    H = np.transpose(np.transpose(H)*((np.transpose(Wbar)@Abar))#/(np.transpose(Wbar)@Wbar@np.transpose(H) + eps_divide)))
                                                                     #update for H    
     print('H shape: ', np.shape(H))
     W = H                                                           #update W        
