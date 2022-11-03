@@ -1,6 +1,7 @@
 import numpy as np
 
 def sym_mult_ups(A, k, alpha = 1, M = 10):
+  print("new version")
   eps_divide = 1e-6                                                 #define a small number to ensure we never divide by 0
   n,n = np.shape(A)                                                 #determine the size of X for initializing A and S
   
