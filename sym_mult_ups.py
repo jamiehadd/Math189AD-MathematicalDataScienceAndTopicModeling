@@ -11,7 +11,7 @@ def sym_mult_ups(A, k, alpha = 1, M = 10):
     
   W = np.abs(np.random.randn(n,k))                                  #initialize factor matrices
   print('Initial W shape: ', np.shape(W))
-  H = np.transpose(np.abs(np.random.randn(k,n)))
+  H = np.abs(np.random.randn(k,n))
   print('Initial H shape: ', np.shape(H))
   
   #errors = [np.linalg.norm(A-np.transpose(H)@H,'fro')**2]           #initialize error array
@@ -22,11 +22,11 @@ def sym_mult_ups(A, k, alpha = 1, M = 10):
     Wbar = np.vstack((W,np.sqrt(alpha)*np.eye(k)))
     print('Wbar shape: ', np.shape(Wbar))
 
-    H = np.transpose(np.transpose(H)*((np.transpose(Wbar)@Abar)))#/(np.transpose(Wbar)@Wbar@np.transpose(H) + eps_divide)))
+    H = H*((np.transpose(Wbar)@Abar)/(np.transpose(Wbar)@Wbar@H))
                                                                     #update for H    
     print('H shape: ', np.shape(H))
     W = H                                                           #update W        
     
     #errors.append(np.linalg.norm(A-H@np.transpose(H),'fro')**2)     #record error
   
-  return H#, errors
+  return np.transpose(H)#, errors
