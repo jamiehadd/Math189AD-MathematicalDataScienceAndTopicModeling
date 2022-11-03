@@ -30,4 +30,4 @@ def sym_mult_ups(A, k, alpha = 1, M = 10):
     
     #errors.append(np.linalg.norm(A-H@np.transpose(H),'fro')**2)     #record error
   
-  return H#, errors
+  return np.transpose(H)#, errors
