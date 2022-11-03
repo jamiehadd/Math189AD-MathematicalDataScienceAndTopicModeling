@@ -23,5 +23,6 @@ def sym_mult_ups(A, k, alpha = 1, M = 10):
     W = np.transpose(H)                                             #update W     
     
     errors.append(np.linalg.norm(A-np.transpose(H)@H,'fro')**2)     #record error
+    print("new version")
   
   return np.transpose(H), errors
