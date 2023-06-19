@@ -50,68 +50,17 @@ Using Gradescope: If you are registered for this course, you should have already
 | 9 | M | Group pitch development | | |
 | | W | Topic pitches, Writing Center Visit, and Mid-Semester Evaluations | Lee, Hyekyoung, Jiho Yoo, and Seungjin Choi. "Semi-supervised nonnegative matrix factorization." IEEE Signal Processing Letters 17.1 (2009): 4-7. <br> Haddock, Jamie, et al. "Semi-supervised NMF Models for Topic Modeling in Learning Tasks." arXiv preprint arXiv:2010.07956 (2020). <br> **Due:** T Nov 1 by end of day (Reflection 6) | Group pitch |
 | | F | | | Group abstract |
-10
-M Oct 31
-
-Supervised NMF Variants	 	 
-
-W Nov 2
-
-Discussion and Tutorial
-Kuang, Da, Sangwoon Yun, and Haesun Park. "SymNMF: nonnegative low-rank approximation of a similarity matrix for graph clustering." Journal of Global Optimization 62.3 (2015): 545-574.
-
-Due: T Nov 8 by end of day (Reflection 7)
-
-Reflection 6
-11
-M Nov 7
-
-Community Detection with NMF	 	Midsemester reflection
-
-W Nov 9
-
-Discussion and Tutorial/Group Project Work
-De Handschutter, Pierre, Nicolas Gillis, and Xavier Siebert. "Deep matrix factorizations." arXiv preprint arXiv:2010.00380 (2020).
-
-Due: T Nov 15 by end of day (Reflection 8)
-
-Reflection 7
-12
-M Nov 14
-
-Hierarchical NMF	 	 
-
-W Nov 16
-
-Discussion and Tutorial/Group Project Work
-Koren, Yehuda, Robert Bell, and Chris Volinsky. "Matrix factorization techniques for recommender systems." Computer 42.8 (2009): 30-37.
-
-Due: T Nov 22 by end of day (Reflection 9)
-
-Reflection 8
-13
-M Nov 21
-
-NMF Applications: Recommender Systems and more	 	Reflection 9
-
-W Nov 23
-
-No Class: Thanksgiving Break	 	 
-14
-M Nov 28
-
-Convex NMF and Archetypal Analysis/Group Project Work	 	 
-
-W Nov 30
-
-No Class	 	 
-15	M Dec 5	Group Project Presentations	 	Group extended summary
- 	W Dec 7	Group Project Presentations	 	 
-Finals
-W Dec 14
-
- 	 	Group paper
-
-F Dec 16
-
- 	 	Final reflection
+| 10 | M | Supervised NMF Variants | | | 	 
+| | W | Discussion and Tutorial | Kuang, Da, Sangwoon Yun, and Haesun Park. "SymNMF: nonnegative low-rank approximation of a similarity matrix for graph clustering." Journal of Global Optimization 62.3 (2015): 545-574. <br> **Due:**  T Nov 8 by end of day (Reflection 7) | Reflection 6 |
+| 11 | M | Community Detection with NMF | |	Midsemester reflection |
+| | W Nov | Discussion and Tutorial | De Handschutter, Pierre, Nicolas Gillis, and Xavier Siebert. "Deep matrix factorizations." arXiv preprint arXiv:2010.00380 (2020).<br> **Due:** T Nov 15 by end of day (Reflection 8) | Reflection 7 |
+| 12 | M | Hierarchical NMF | | |
+| | W | Discussion and Tutorial | Koren, Yehuda, Robert Bell, and Chris Volinsky. "Matrix factorization techniques for recommender systems." Computer 42.8 (2009): 30-37.<br> **Due:** T Nov 22 by end of day (Reflection 9) | Reflection 8 |
+| 13 | M | NMF Applications: Recommender Systems and more | | Reflection 9 |
+| | W | No Class | | |  	 
+| 14 | M | Convex NMF and Archetypal Analysis | | |	 	 
+| | W | No Class | | |
+| 15 | M | Group Project Presentations | | Group extended summary |
+| | W | Group Project Presentations | | |	 
+| Finals | W | | | Group paper |
+| | F | | | Final reflection |
