@@ -40,21 +40,21 @@ Using Gradescope: If you are registered for this course, you should have already
 | 6 | M | [Training NMF models](https://docs.google.com/presentation/d/10ZC7z4328cAE-ypoMH3kl10a2zKsfYPa9FY3ACXE9pQ/edit?usp=sharing)	| | |  	 
 | | W | Discussion and Tutorial | |	[Reflection 5](https://www.overleaf.com/read/xxjyzjpmxhbc) |
 | 7 | M | [Overview of NMF Variants](https://docs.google.com/presentation/d/1r3vpG7ZVmE1TF5vshJ9cleAEfYJ862TnZBJ06RWkJrM/edit?usp=sharing) | | | 	 
-| | W | Team Building | |	[Topic brainstorm](https://www.overleaf.com/read/sgbfrvqsyvnv) |
+| | W | [Team Building](https://docs.google.com/presentation/d/1BlrZrwXv4SID_BE00W61rB4cPVj7GyHhexjBF07icHM/edit?usp=sharing) | |	[Topic brainstorm](https://www.overleaf.com/read/sgbfrvqsyvnv) |
 | 8 | M | No Class | | |	 	 
 | | W | [Statistical Foundations of NMF](https://docs.google.com/presentation/d/1GL-soQ-_gYravYLqrTM89e3bKdL5Dhd9qrCJu0wqJaA/edit?usp=sharing) | | |
 | 9 | M | Group pitch development | | |
-| | W | Topic pitches, Writing Center Visit, and Mid-Semester Evaluations | Lee, Hyekyoung, Jiho Yoo, and Seungjin Choi. "Semi-supervised nonnegative matrix factorization." IEEE Signal Processing Letters 17.1 (2009): 4-7. <br> Haddock, Jamie, et al. "Semi-supervised NMF Models for Topic Modeling in Learning Tasks." arXiv preprint arXiv:2010.07956 (2020). <br> **Due:** T Nov 1 by end of day ([Reflection 6](https://www.overleaf.com/read/xskfwfknbmpp)) | [Group pitch](https://www.overleaf.com/read/sgbfrvqsyvnv) |
+| | W | [Topic pitches, Writing Center Visit, and Mid-Semester Evaluations](https://docs.google.com/presentation/d/1CtMzzWwHsId7r7aMeGFkOjlHni-2fbgBhctiSYEkWio/edit?usp=sharing) | Lee, Hyekyoung, Jiho Yoo, and Seungjin Choi. "Semi-supervised nonnegative matrix factorization." IEEE Signal Processing Letters 17.1 (2009): 4-7. <br> Haddock, Jamie, et al. "Semi-supervised NMF Models for Topic Modeling in Learning Tasks." arXiv preprint arXiv:2010.07956 (2020). <br> **Due:** T Nov 1 by end of day ([Reflection 6](https://www.overleaf.com/read/xskfwfknbmpp)) | [Group pitch](https://www.overleaf.com/read/sgbfrvqsyvnv) |
 | | F | | | [Group abstract](https://www.overleaf.com/read/sgbfrvqsyvnv) |
-| 10 | M | Supervised NMF Variants | | | 	 
+| 10 | M | [Supervised NMF Variants](https://docs.google.com/presentation/d/1KKKNOaZ0Q3jv5uvQDejbSTuoMxoP_expCx-2O4fXacI/edit?usp=sharing) | | | 	 
 | | W | Discussion and Tutorial | Kuang, Da, Sangwoon Yun, and Haesun Park. "SymNMF: nonnegative low-rank approximation of a similarity matrix for graph clustering." Journal of Global Optimization 62.3 (2015): 545-574. <br> **Due:**  T Nov 8 by end of day ([Reflection 7](https://www.overleaf.com/read/fqhgggvxkvdv)) | [Reflection 6](https://www.overleaf.com/read/xskfwfknbmpp) |
-| 11 | M | Community Detection with NMF | |	[Midsemester reflection](https://www.overleaf.com/read/dwkhpgtxnvqz) |
+| 11 | M | [Community Detection with NMF](https://docs.google.com/presentation/d/1Kg6f7Ia79XGb44NPt6xAfv1dUS6vbcM8edi5T-g7zLs/edit?usp=sharing) | |	[Midsemester reflection](https://www.overleaf.com/read/dwkhpgtxnvqz) |
 | | W | Discussion and Tutorial | De Handschutter, Pierre, Nicolas Gillis, and Xavier Siebert. "Deep matrix factorizations." arXiv preprint arXiv:2010.00380 (2020).<br> **Due:** T Nov 15 by end of day ([Reflection 8](https://www.overleaf.com/read/gygbqcfywwxd)) | [Reflection 7](https://www.overleaf.com/read/fqhgggvxkvdv) |
-| 12 | M | Hierarchical NMF | | |
+| 12 | M | [Hierarchical NMF](https://docs.google.com/presentation/d/1YZXjTrkg3BmJwQiJJpy75OUd3P8SEwbNoXnMz7quQmE/edit?usp=sharing) | | |
 | | W | Discussion and Tutorial | Koren, Yehuda, Robert Bell, and Chris Volinsky. "Matrix factorization techniques for recommender systems." Computer 42.8 (2009): 30-37.<br> **Due:** T Nov 22 by end of day ([Reflection 9](https://www.overleaf.com/read/ncjyrtjmtzff)) | [Reflection 8](https://www.overleaf.com/read/gygbqcfywwxd) |
-| 13 | M | NMF Applications: Recommender Systems and more | | [Reflection 9](https://www.overleaf.com/read/ncjyrtjmtzff) |
+| 13 | M | [NMF Applications: Recommender Systems and more](https://docs.google.com/presentation/d/18cW1elrID10_f2WefZAu7VxHQQd5ORo7JIlhjBp5M3Y/edit?usp=sharing) | | [Reflection 9](https://www.overleaf.com/read/ncjyrtjmtzff) |
 | | W | No Class | | |  	 
-| 14 | M | Convex NMF and Archetypal Analysis | | |	 	 
+| 14 | M | [Convex NMF and Archetypal Analysis](https://docs.google.com/presentation/d/1bmEFv0Nz8Hxp0CndUm3Youo6kZoScCo8x0C-7kE1mek/edit?usp=sharing) | | |	 	 
 | | W | No Class | | |
 | 15 | M | Group Project Presentations | | [Group extended summary](https://www.overleaf.com/read/sgbfrvqsyvnv) |
 | | W | Group Project Presentations | | |	 
