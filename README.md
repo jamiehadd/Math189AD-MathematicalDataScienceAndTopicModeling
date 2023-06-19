@@ -32,31 +32,11 @@ Using Gradescope: If you are registered for this course, you should have already
 | Week |	Date | Topic |	Assigned Readings | Assignments Due |
 | --- | --- | --- | --- | --- |
 | 1 |	M | Syllabus, Class Norms, Ice-breakers | | |	 	 
-| | W | Data and Data Science | Baker, Matthew. "How to Read a Research Paper." Notices of the American Mathematical Society 67.5 (2020): 660-662. <br> Higham, Nicholas J. "How to Read and Understand a Paper." (2015): 903-906. <br> Optional: Kolda, Tamara. "Mathematics: The Tao of Data Science." Harvard Data Science Review (2020). <br> Optional: Breiman, Leo. "Statistical modeling: The two cultures (with comments and a rejoinder by the author)." Statistical science 16.3 (2001): 199-231. | Due: W Sep 7 before class (Reflection 1) |
-
-
-2	M Sep 5	No Class: Labor Day	 	 
- 	W Sep 7	Linear Algebra, Optimization, and Probability Tools
-Lee, Daniel D., and H. Sebastian Seung. "Learning the parts of objects by non-negative matrix factorization." Nature 401.6755 (1999): 788-791.
-
-Due: T Sep 13 by end of day (Reflection 2)
-
-Reflection 1
-3
-M Sep 12
-
-Our lens: Nonnegative Matrix Factorization
-
-
-
- 	W Sep 14	Discussion and Tutorial
-Chapter 1 of Gillis, Nicolas. Nonnegative Matrix Factorization. Society for Industrial and Applied Mathematics, 2020.
-
-Due: T Sep 20 by end of day (Reflection 3)
-
-Reflection 2 + Rubric
-
-(see rubric guide)
+| | W | Data and Data Science | Baker, Matthew. "How to Read a Research Paper." Notices of the American Mathematical Society 67.5 (2020): 660-662. <br> Higham, Nicholas J. "How to Read and Understand a Paper." (2015): 903-906. <br> Optional: Kolda, Tamara. "Mathematics: The Tao of Data Science." Harvard Data Science Review (2020). <br> Optional: Breiman, Leo. "Statistical modeling: The two cultures (with comments and a rejoinder by the author)." Statistical science 16.3 (2001): 199-231.<br> **Due:** W Sep 7 before class (Reflection 1) | |
+| 2	| M |	No Class | | |	 	 
+| | W |	Linear Algebra, Optimization, and Probability Tools | Lee, Daniel D., and H. Sebastian Seung. "Learning the parts of objects by non-negative matrix factorization." Nature 401.6755 (1999): 788-791.<br> **Due:** T Sep 13 by end of day (Reflection 2)| Reflection 1 |
+| 3 | M | Our lens: Nonnegative Matrix Factorization | | |
+| | W | Discussion and Tutorial | Chapter 1 of Gillis, Nicolas. Nonnegative Matrix Factorization. Society for Industrial and Applied Mathematics, 2020. <br> **Due:** T Sep 20 by end of day (Reflection 3) | Reflection 2 + Rubric (see rubric guide)|
 
 4
 M Sep 19
