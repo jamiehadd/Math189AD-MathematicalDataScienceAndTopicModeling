@@ -44,7 +44,7 @@ Using Gradescope: If you are registered for this course, you should have already
 | 6 | M | Training NMF models	| | |  	 
 | | W | Discussion and Tutorial | |	Reflection 5 |
 | 7 | M | Overview of NMF Variants | | | 	 
-| | W Team Building | |	Topic brainstorm |
+| | W | Team Building | |	Topic brainstorm |
 | 8 | M | No Class | | |	 	 
 | | W | Statistical Foundations of NMF | | |
 | 9 | M | Group pitch development | | |
