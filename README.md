@@ -32,13 +32,7 @@ Using Gradescope: If you are registered for this course, you should have already
 | Week |	Date | Topic |	Assigned Readings | Assignments Due |
 | --- | --- | --- | --- | --- |
 | 1 |	M | Syllabus, Class Norms, Ice-breakers | | |	 	 
-| | W | Data and Data Science | Baker, Matthew. "How to Read a Research Paper." Notices of the American Mathematical Society 67.5 (2020): 660-662.
-
-Higham, Nicholas J. "How to Read and Understand a Paper." (2015): 903-906.
-
-Optional: Kolda, Tamara. "Mathematics: The Tao of Data Science." Harvard Data Science Review (2020).
-
-Optional: Breiman, Leo. "Statistical modeling: The two cultures (with comments and a rejoinder by the author)." Statistical science 16.3 (2001): 199-231. | Due: W Sep 7 before class (Reflection 1) |
+| | W | Data and Data Science | Baker, Matthew. "How to Read a Research Paper." Notices of the American Mathematical Society 67.5 (2020): 660-662. <br> Higham, Nicholas J. "How to Read and Understand a Paper." (2015): 903-906. <br> Optional: Kolda, Tamara. "Mathematics: The Tao of Data Science." Harvard Data Science Review (2020). <br> Optional: Breiman, Leo. "Statistical modeling: The two cultures (with comments and a rejoinder by the author)." Statistical science 16.3 (2001): 199-231. | Due: W Sep 7 before class (Reflection 1) |
 
 
 2	M Sep 5	No Class: Labor Day	 	 
