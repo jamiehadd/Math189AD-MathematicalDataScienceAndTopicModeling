@@ -32,9 +32,9 @@ Using Gradescope: If you are registered for this course, you should have already
 | Week |	Date | Topic |	Assigned Readings | Assignments Due |
 | --- | --- | --- | --- | --- |
 | 1 |	M | Syllabus, Class Norms, Ice-breakers | | |	 	 
-| | W | Data and Data Science | Baker, Matthew. "How to Read a Research Paper." Notices of the American Mathematical Society 67.5 (2020): 660-662. <br> Higham, Nicholas J. "How to Read and Understand a Paper." (2015): 903-906. <br> Optional: Kolda, Tamara. "Mathematics: The Tao of Data Science." Harvard Data Science Review (2020). <br> Optional: Breiman, Leo. "Statistical modeling: The two cultures (with comments and a rejoinder by the author)." Statistical science 16.3 (2001): 199-231.<br> **Due:** W Sep 7 before class (Reflection 1) | |
+| | W | Data and Data Science | Baker, Matthew. "How to Read a Research Paper." Notices of the American Mathematical Society 67.5 (2020): 660-662. <br> Higham, Nicholas J. "How to Read and Understand a Paper." (2015): 903-906. <br> Optional: Kolda, Tamara. "Mathematics: The Tao of Data Science." Harvard Data Science Review (2020). <br> Optional: Breiman, Leo. "Statistical modeling: The two cultures (with comments and a rejoinder by the author)." Statistical science 16.3 (2001): 199-231.<br> **Due:** W Sep 7 before class ([Reflection 1](https://www.overleaf.com/read/whmmfgptfggs)) | |
 | 2	| M |	No Class | | |	 	 
-| | W |	Linear Algebra, Optimization, and Probability Tools | Lee, Daniel D., and H. Sebastian Seung. "Learning the parts of objects by non-negative matrix factorization." Nature 401.6755 (1999): 788-791.<br> **Due:** T Sep 13 by end of day (Reflection 2)| Reflection 1 |
+| | W |	Linear Algebra, Optimization, and Probability Tools | Lee, Daniel D., and H. Sebastian Seung. "Learning the parts of objects by non-negative matrix factorization." Nature 401.6755 (1999): 788-791.<br> **Due:** T Sep 13 by end of day (Reflection 2)| [Reflection 1](https://www.overleaf.com/read/whmmfgptfggs) |
 | 3 | M | Our lens: Nonnegative Matrix Factorization | | |
 | | W | Discussion and Tutorial | Chapter 1 of Gillis, Nicolas. Nonnegative Matrix Factorization. Society for Industrial and Applied Mathematics, 2020. <br> **Due:** T Sep 20 by end of day (Reflection 3) | Reflection 2 + Rubric (see rubric guide)|
 | 4 | M | Dimensionality Reduction and Clustering | | |	 
@@ -53,7 +53,7 @@ Using Gradescope: If you are registered for this course, you should have already
 | 10 | M | Supervised NMF Variants | | | 	 
 | | W | Discussion and Tutorial | Kuang, Da, Sangwoon Yun, and Haesun Park. "SymNMF: nonnegative low-rank approximation of a similarity matrix for graph clustering." Journal of Global Optimization 62.3 (2015): 545-574. <br> **Due:**  T Nov 8 by end of day (Reflection 7) | Reflection 6 |
 | 11 | M | Community Detection with NMF | |	Midsemester reflection |
-| | W Nov | Discussion and Tutorial | De Handschutter, Pierre, Nicolas Gillis, and Xavier Siebert. "Deep matrix factorizations." arXiv preprint arXiv:2010.00380 (2020).<br> **Due:** T Nov 15 by end of day (Reflection 8) | Reflection 7 |
+| | W | Discussion and Tutorial | De Handschutter, Pierre, Nicolas Gillis, and Xavier Siebert. "Deep matrix factorizations." arXiv preprint arXiv:2010.00380 (2020).<br> **Due:** T Nov 15 by end of day (Reflection 8) | Reflection 7 |
 | 12 | M | Hierarchical NMF | | |
 | | W | Discussion and Tutorial | Koren, Yehuda, Robert Bell, and Chris Volinsky. "Matrix factorization techniques for recommender systems." Computer 42.8 (2009): 30-37.<br> **Due:** T Nov 22 by end of day (Reflection 9) | Reflection 8 |
 | 13 | M | NMF Applications: Recommender Systems and more | | Reflection 9 |
