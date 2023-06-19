@@ -27,22 +27,22 @@ Using Gradescope: If you are registered for this course, you should have already
 
 | Week |	Date | Topic |	Assigned Readings | Assignments Due |
 | --- | --- | --- | --- | --- |
-| 1 |	M | Syllabus, Class Norms, Ice-breakers | | |	 	 
-| | W | Data and Data Science | Baker, Matthew. "How to Read a Research Paper." Notices of the American Mathematical Society 67.5 (2020): 660-662. <br> Higham, Nicholas J. "How to Read and Understand a Paper." (2015): 903-906. <br> Optional: Kolda, Tamara. "Mathematics: The Tao of Data Science." Harvard Data Science Review (2020). <br> Optional: Breiman, Leo. "Statistical modeling: The two cultures (with comments and a rejoinder by the author)." Statistical science 16.3 (2001): 199-231.<br> **Due:** W Sep 7 before class ([Reflection 1](https://www.overleaf.com/read/whmmfgptfggs)) | |
+| 1 |	M | [Syllabus, Class Norms, Ice-breakers](https://docs.google.com/presentation/d/1sZ7tNBJcCzH2ReunDEWXdksORNC-59lKVz3OGpyl064/edit?usp=sharing) | | |	 	 
+| | W | [Data and Data Science](https://docs.google.com/presentation/d/1XTkyrbUUcSJppj54eNiQ4f3MpQzPmLlw9n9EMerOlyQ/edit?usp=sharing) | Baker, Matthew. "How to Read a Research Paper." Notices of the American Mathematical Society 67.5 (2020): 660-662. <br> Higham, Nicholas J. "How to Read and Understand a Paper." (2015): 903-906. <br> Optional: Kolda, Tamara. "Mathematics: The Tao of Data Science." Harvard Data Science Review (2020). <br> Optional: Breiman, Leo. "Statistical modeling: The two cultures (with comments and a rejoinder by the author)." Statistical science 16.3 (2001): 199-231.<br> **Due:** W Sep 7 before class ([Reflection 1](https://www.overleaf.com/read/whmmfgptfggs)) | |
 | 2	| M |	No Class | | |	 	 
-| | W |	Linear Algebra, Optimization, and Probability Tools | Lee, Daniel D., and H. Sebastian Seung. "Learning the parts of objects by non-negative matrix factorization." Nature 401.6755 (1999): 788-791.<br> **Due:** T Sep 13 by end of day ([Reflection 2](https://www.overleaf.com/read/ybgffrdmfhpy))| [Reflection 1](https://www.overleaf.com/read/whmmfgptfggs) |
-| 3 | M | Our lens: Nonnegative Matrix Factorization | | |
+| | W |	[Linear Algebra, Optimization, and Probability Tools](https://docs.google.com/presentation/d/1HO2QVYmiMmgFJ0_6OE1RrSX7ED8y34MtgLVy0PgQNMo/edit?usp=sharing) | Lee, Daniel D., and H. Sebastian Seung. "Learning the parts of objects by non-negative matrix factorization." Nature 401.6755 (1999): 788-791.<br> **Due:** T Sep 13 by end of day ([Reflection 2](https://www.overleaf.com/read/ybgffrdmfhpy))| [Reflection 1](https://www.overleaf.com/read/whmmfgptfggs) |
+| 3 | M | [Our lens: Nonnegative Matrix Factorization](https://docs.google.com/presentation/d/1dGcNmc81TWOcC560c3hscwXP1iq-e_DNEGor7Fdye2U/edit?usp=sharing) | | |
 | | W | Discussion and Tutorial | Chapter 1 of Gillis, Nicolas. Nonnegative Matrix Factorization. Society for Industrial and Applied Mathematics, 2020. <br> **Due:** T Sep 20 by end of day ([Reflection 3](https://www.overleaf.com/read/fgfjbgvwxckg)) | [Reflection 2](https://www.overleaf.com/read/ybgffrdmfhpy) + [Rubric](https://www.overleaf.com/read/ffzszjstwpqp) (see [rubric guide](files/rubric_details.pdf))|
-| 4 | M | Dimensionality Reduction and Clustering | | |	 
+| 4 | M | [Dimensionality Reduction and Clustering](https://docs.google.com/presentation/d/1MXszby71RCv7iDu-aJNbuH0-Tj6OqFkUrbl0RUxaWqw/edit?usp=sharing) | | |	 
 | | W | Discussion and Tutorial| Kolda, Tamara G., and Brett W. Bader. "Tensor decompositions and applications." SIAM review 51.3 (2009): 455-500. <br> Rabanser, Stephan, Oleksandr Shchur, and Stephan Günnemann. "Introduction to tensor decompositions and their applications in machine learning." arXiv preprint arXiv:1711.10781 (2017). <br> **Due:** T Sep 27 by end of day ([Reflection 4](https://www.overleaf.com/read/vdkxfnrmvvsy)) | [Reflection 3](https://www.overleaf.com/read/fgfjbgvwxckg) |
-| 5 | M | Tensor Decomposition Models | | |
+| 5 | M | [Tensor Decomposition Models](https://docs.google.com/presentation/d/1IF2vuhrUDkmqqed06AQHjvjDzT17raxGU_Njc1HcmjM/edit?usp=sharing) | | |
 | | W | Discussion and Tutorial | Lee, D. D., and H. S. Seung. "Algorithms for Non-Negative Matrix Factorization. NIPS (2000)." Google Scholar: 556-562. <br> **Due:** T Oct 4 by end of day ([Reflection 5](https://www.overleaf.com/read/xxjyzjpmxhbc)) | [Reflection 4](https://www.overleaf.com/read/vdkxfnrmvvsy) |
-| 6 | M | Training NMF models	| | |  	 
+| 6 | M | [Training NMF models](https://docs.google.com/presentation/d/10ZC7z4328cAE-ypoMH3kl10a2zKsfYPa9FY3ACXE9pQ/edit?usp=sharing)	| | |  	 
 | | W | Discussion and Tutorial | |	[Reflection 5](https://www.overleaf.com/read/xxjyzjpmxhbc) |
-| 7 | M | Overview of NMF Variants | | | 	 
+| 7 | M | [Overview of NMF Variants](https://docs.google.com/presentation/d/1r3vpG7ZVmE1TF5vshJ9cleAEfYJ862TnZBJ06RWkJrM/edit?usp=sharing) | | | 	 
 | | W | Team Building | |	[Topic brainstorm](https://www.overleaf.com/read/sgbfrvqsyvnv) |
 | 8 | M | No Class | | |	 	 
-| | W | Statistical Foundations of NMF | | |
+| | W | [Statistical Foundations of NMF](https://docs.google.com/presentation/d/1GL-soQ-_gYravYLqrTM89e3bKdL5Dhd9qrCJu0wqJaA/edit?usp=sharing) | | |
 | 9 | M | Group pitch development | | |
 | | W | Topic pitches, Writing Center Visit, and Mid-Semester Evaluations | Lee, Hyekyoung, Jiho Yoo, and Seungjin Choi. "Semi-supervised nonnegative matrix factorization." IEEE Signal Processing Letters 17.1 (2009): 4-7. <br> Haddock, Jamie, et al. "Semi-supervised NMF Models for Topic Modeling in Learning Tasks." arXiv preprint arXiv:2010.07956 (2020). <br> **Due:** T Nov 1 by end of day ([Reflection 6](https://www.overleaf.com/read/xskfwfknbmpp)) | [Group pitch](https://www.overleaf.com/read/sgbfrvqsyvnv) |
 | | F | | | [Group abstract](https://www.overleaf.com/read/sgbfrvqsyvnv) |
