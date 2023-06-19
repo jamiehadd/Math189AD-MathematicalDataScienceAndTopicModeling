@@ -60,3 +60,9 @@ Using Gradescope: If you are registered for this course, you should have already
 | | W | Group Project Presentations | | |	 
 | Finals | W | | | [Group paper](https://www.overleaf.com/read/sgbfrvqsyvnv) |
 | | F | | | [Final reflection](https://www.overleaf.com/read/npbktkfrzybw) |
+
+
+## FINAL PROJECT
+Our final project will be a group project (consisting of 3-4 students per team) focused on a topic of the team's choosing.  The project components will be the required parts of a mock (or perhaps real!) submission to the nice annual IEEE conference ["Asilomar Conference on Signals, Systems, and Computers"](https://www.asilomarsscconf.org/).  These are a 100–200 word abstract, an extended summary (500–1000 words plus figures), a technical presentation, and a full paper (5-8 pages).  Like the conference, you will submit the abstract and extended summary in advance of your group final presentation, and the final paper after your presentation.   
+
+Details here: [Final project](https://www.overleaf.com/read/sgbfrvqsyvnv)
