@@ -40,12 +40,12 @@ Using Gradescope: If you are registered for this course, you should have already
 | 6 | M | Training NMF models	| | |  	 
 | | W | Discussion and Tutorial | |	[Reflection 5](https://www.overleaf.com/read/xxjyzjpmxhbc) |
 | 7 | M | Overview of NMF Variants | | | 	 
-| | W | Team Building | |	Topic brainstorm |
+| | W | Team Building | |	[Topic brainstorm](https://www.overleaf.com/read/sgbfrvqsyvnv) |
 | 8 | M | No Class | | |	 	 
 | | W | Statistical Foundations of NMF | | |
 | 9 | M | Group pitch development | | |
-| | W | Topic pitches, Writing Center Visit, and Mid-Semester Evaluations | Lee, Hyekyoung, Jiho Yoo, and Seungjin Choi. "Semi-supervised nonnegative matrix factorization." IEEE Signal Processing Letters 17.1 (2009): 4-7. <br> Haddock, Jamie, et al. "Semi-supervised NMF Models for Topic Modeling in Learning Tasks." arXiv preprint arXiv:2010.07956 (2020). <br> **Due:** T Nov 1 by end of day ([Reflection 6](https://www.overleaf.com/read/xskfwfknbmpp)) | Group pitch |
-| | F | | | Group abstract |
+| | W | Topic pitches, Writing Center Visit, and Mid-Semester Evaluations | Lee, Hyekyoung, Jiho Yoo, and Seungjin Choi. "Semi-supervised nonnegative matrix factorization." IEEE Signal Processing Letters 17.1 (2009): 4-7. <br> Haddock, Jamie, et al. "Semi-supervised NMF Models for Topic Modeling in Learning Tasks." arXiv preprint arXiv:2010.07956 (2020). <br> **Due:** T Nov 1 by end of day ([Reflection 6](https://www.overleaf.com/read/xskfwfknbmpp)) | [Group pitch](https://www.overleaf.com/read/sgbfrvqsyvnv) |
+| | F | | | [Group abstract](https://www.overleaf.com/read/sgbfrvqsyvnv) |
 | 10 | M | Supervised NMF Variants | | | 	 
 | | W | Discussion and Tutorial | Kuang, Da, Sangwoon Yun, and Haesun Park. "SymNMF: nonnegative low-rank approximation of a similarity matrix for graph clustering." Journal of Global Optimization 62.3 (2015): 545-574. <br> **Due:**  T Nov 8 by end of day ([Reflection 7](https://www.overleaf.com/read/fqhgggvxkvdv)) | [Reflection 6](https://www.overleaf.com/read/xskfwfknbmpp) |
 | 11 | M | Community Detection with NMF | |	[Midsemester reflection](https://www.overleaf.com/read/dwkhpgtxnvqz) |
@@ -56,7 +56,7 @@ Using Gradescope: If you are registered for this course, you should have already
 | | W | No Class | | |  	 
 | 14 | M | Convex NMF and Archetypal Analysis | | |	 	 
 | | W | No Class | | |
-| 15 | M | Group Project Presentations | | Group extended summary |
+| 15 | M | Group Project Presentations | | [Group extended summary](https://www.overleaf.com/read/sgbfrvqsyvnv) |
 | | W | Group Project Presentations | | |	 
-| Finals | W | | | Group paper |
-| | F | | | Final reflection |
+| Finals | W | | | [Group paper](https://www.overleaf.com/read/sgbfrvqsyvnv) |
+| | F | | | [Final reflection](https://www.overleaf.com/read/npbktkfrzybw) |
